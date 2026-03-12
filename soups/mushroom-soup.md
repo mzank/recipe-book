@@ -1,5 +1,6 @@
 # Mushroom soup recipe
 
+This soup is very tasty.
 
 ## Ingredients
 
